@@ -27,6 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run 01sh script
-        run: ../01.sh
+        run: echo 1
 
 
